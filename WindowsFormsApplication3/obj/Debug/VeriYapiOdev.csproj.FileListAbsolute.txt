@@ -1,0 +1,9 @@
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VeriYapiOdev.csprojResolveAssemblyReference.cache
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\VeriYapiOdev.csproj.GenerateResource.Cache
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\MROKT\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
